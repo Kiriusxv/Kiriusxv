@@ -13,7 +13,8 @@
 - 🔍 I’m looking to collaborate on open-source graphics or indie game projects  
 - 📚 Always learning new things about rendering pipelines and game architecture  
 - 💬 Ask me about shaders, scene graphs, or anything game dev-related  
-- 🌱 I’m currently diving into ECS architecture and GPU programming  
+- 🌱 I’m currently diving into ECS architecture and GPU programming
+- ✍ Write something on my blog：[https://kiriusxv.github.io/]
 - 📫 How to reach me: [kkkirius@163.com] or via GitHub issues  
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Kiriusxv&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
