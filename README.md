@@ -1,9 +1,8 @@
 
-
-
-
 ## Hi there 👋I'm Kirius.
-#### You can also call me K
+<p align="center"><strong> You can also call me Kiri/K </strong></p>  
+<p align="center"><strong> I am passionate about exploring computer graphics</strong></p>  
+
 ## 👋 About Me
 - 🎓 I’m a junior majoring in Software Engineering  
 - 🎮 I’m passionate about computer graphics and game development  
