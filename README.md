@@ -1,7 +1,8 @@
 
-## Hi there 👋I'm Kirius.
-<p align="center"><strong> I am passionate about exploring computer graphics</strong></p>  
-
+<h2 align="center"><strong>Hi there 👋I'm Kirius.<strong></h2>     
+<h4 align="center"><strong> I am passionate about exploring computer graphics.</strong></h4>  
+<h4 align="center"><strong> Trying to understand the virtual singer and Vocaloid.</strong></h4>  
+  
 ## 👋 About Me
 - 🎓 I’m a junior majoring in Software Engineering  
 - 🎮 I’m passionate about computer graphics and game development  
