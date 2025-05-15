@@ -1,6 +1,5 @@
 
 ## Hi there 👋I'm Kirius.
-<p align="center"><strong> You can also call me Kiri/K </strong></p>  
 <p align="center"><strong> I am passionate about exploring computer graphics</strong></p>  
 
 ## 👋 About Me
